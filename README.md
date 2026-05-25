@@ -16,7 +16,7 @@
 
 ---
 
-> FORK 𝗝𝗨𝗡𝗘 𝗨𝗟𝗧𝗥𝗔
+> FORK JUNE X ULTRA BOT
 <div align="center">    
   <a href="https://github.com/Vinpink2/June-Ultra/fork">
     <img src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="Deploy June-X"/>
@@ -25,12 +25,23 @@
 
 ---
 
-> DEPLOY 𝗝𝗨𝗡𝗘-𝗫 𝗨𝗟𝗧𝗥𝗔
-<div align="center">    
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Vinpink2/June-Ultra">
-    <img src="https://img.shields.io/badge/Heroku%20Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple" alt="Deploy June-X"/>
-  </a>
-</div>
+> DEPLOY JUNE X ULTRA BOTs
+
+<p align="center">
+
+<a href="https://dashboard.heroku.com/new?template=https://github.com/vinpink2/June-Ultra">
+<img src="https://img.shields.io/badge/HEROKU-6762A6?style=for-the-badge&logo=heroku"/>
+</a>
+
+<a href="https://railway.app/new">
+<img src="https://img.shields.io/badge/RAILWAY-000000?style=for-the-badge&logo=railway"/>
+</a>
+
+<a href="https://render.com">
+<img src="https://img.shields.io/badge/RENDER-0099ff?style=for-the-badge&logo=render"/>
+</a>
+
+</p>
 
 ---
 
